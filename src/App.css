@@ -1,5 +1,14 @@
-body {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+.flex {
+  display: flex;
+}
+
+.sidebar_socials {
+  margin: 2rem;
+  gap: 1rem;
+}
+
+.active {
+  background-color: rgb(23, 123, 253);
+  height: 38px;
+  width: 100px;
 }
