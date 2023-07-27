@@ -1,41 +1,41 @@
 body {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 a {
-    color: white;
-    font-size: large;
-    font-weight: bold;
-    text-decoration: none;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
 }
+
 .navbar_container {
-    width: 100%;
+  width: 100%;
 }
+
 .navbar {
-    background: blue;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 40px;
+  background: blue;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
 }
 
 .navbar_cont_list {
-    display: flex;
-    list-style: none;
-    gap: 2rem;
+  display: flex;
+  list-style: none;
+  gap: 2rem;
 }
 
 .navbar_cont_link {
-    height:38px;
-    width: 100px;
-    text-align: center;
+  height: 38px;
+  width: 100px;
+  text-align: center;
 }
-
 
 .socials_icon {
-    color: white;
+  color: white;
 }
-
