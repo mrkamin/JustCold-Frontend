@@ -16,7 +16,9 @@ const Navbar = () => {
         <div className="header_uperhead flex">
           <img src={Logo} alt="Logo" className={styles.logo} />
           <div className={styles.header_items_item}>
-            <h2 className={styles.header_items_item_h2}>JustCold Refregration Tecnology Co.ltd</h2>
+            <h2 className={styles.header_items_item_h2}>
+              JustCold Refrigreation Technology Co.,Ltd.
+            </h2>
             <div className="justcold_award flex">
               <div className="justcold_name flex">
                 <img src={Logo2} alt="Logo" className={styles.logo_two} />
