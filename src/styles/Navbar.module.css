@@ -6,7 +6,7 @@ a {
 }
 
 a:hover {
-  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.356);
 }
 
 .header_container {
