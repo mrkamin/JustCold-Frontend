@@ -38,7 +38,5 @@
 }
 
 .swiper-pagination-bullet {
-  background: #fff;
-
   --swiper-theme-color: red !important;
 }
