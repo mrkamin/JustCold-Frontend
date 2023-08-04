@@ -11,7 +11,7 @@
 
 .photo {
   width: 100%;
-  height: 33vh;
+  height: 35vh;
   padding: 10px;
   border: none;
   border-radius: 1rem;
@@ -36,3 +36,8 @@
   font-size: 20px !important;
   color: #fff;
 }
+
+.swiper-pagination-bullet  {
+    background: #fff;
+    --swiper-theme-color: red !important;
+  }
