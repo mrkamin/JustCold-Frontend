@@ -13,14 +13,15 @@ a:hover {
   display: flex;
   flex-direction: column;
 }
+
 .header_items {
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: 100px;
   padding: 0 2rem;
-  
 }
+
 .logo {
   width: 90px;
   height: 80px;
@@ -41,9 +42,11 @@ a:hover {
   padding: 0 1rem;
   justify-content: center;
 }
+
 .header_items_item_h2 {
   padding: 0 1rem;
 }
+
 .navbar_container {
   display: flex;
   background-color: #2e8ae6;
@@ -67,9 +70,11 @@ a:hover {
 .socials_icon {
   color: white;
 }
+
 .header_search {
   display: flex;
 }
+
 .search_input {
   height: 40px;
   width: 20rem;
@@ -78,7 +83,8 @@ a:hover {
   border-bottom-left-radius: 0.4rem;
   padding-left: 1rem;
 }
-.search_btn{
+
+.search_btn {
   background-color: #e64545;
   color: #fff;
   height: 44px;
