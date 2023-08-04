@@ -4,9 +4,9 @@ import {
   FaTwitter, FaFacebookF, FaVine, FaPinterestP,
 } from 'react-icons/fa';
 import { RiSearchLine } from 'react-icons/ri';
-import Logo from '../image/Logo - working.png';
-import Logo2 from '../image/goldlogo.png';
-import styles from '../styles/Navbar.module.css';
+import Logo from '../../image/Logo - working.png';
+import Logo2 from '../../image/goldlogo.png';
+import styles from '../../styles/Navbar.module.css';
 
 const Navbar = () => {
   const [activeNav, setActiveNav] = useState('/');

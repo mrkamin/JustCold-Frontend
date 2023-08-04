@@ -4,10 +4,10 @@ import { Pagination, Navigation } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-import Products from '../data';
-import Sidebar from './Sidebar';
+import Products from '../../data';
+import Sidebar from '../shared/Sidebar';
 import HomeProductList from './HomeProductList';
-import './css/home.css';
+import '../css/home.css';
 
 const Home = () => (
   <>
