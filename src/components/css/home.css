@@ -40,3 +40,8 @@
 .swiper-pagination-bullet {
   --swiper-theme-color: red !important;
 }
+
+.product-container {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}

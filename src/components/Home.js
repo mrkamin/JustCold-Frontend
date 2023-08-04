@@ -2,10 +2,12 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination, Navigation } from 'swiper/modules';
 import 'swiper/css';
+import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import Products from '../data';
+import Sidebar from './Sidebar';
+import HomeProductList from './HomeProductList';
 import './css/home.css';
-import 'swiper/css/navigation';
 
 const Home = () => (
   <>
@@ -22,8 +24,11 @@ const Home = () => (
           <img className="photo" src={product.photo} alt="productphoto" />
         </SwiperSlide>
       ))}
-
     </Swiper>
+    <div className="product-container">
+      <Sidebar />
+      <HomeProductList />
+    </div>
   </>
 );
 
