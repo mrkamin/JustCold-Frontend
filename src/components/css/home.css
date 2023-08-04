@@ -37,7 +37,8 @@
   color: #fff;
 }
 
-.swiper-pagination-bullet  {
-    background: #fff;
-    --swiper-theme-color: red !important;
-  }
+.swiper-pagination-bullet {
+  background: #fff;
+
+  --swiper-theme-color: red !important;
+}
