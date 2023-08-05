@@ -12,12 +12,13 @@ const HomeProductList = () => (
           alt="productphoto"
         />
         <div className="productlist-title">
-          <h2>{product.title}</h2>
+          <h6>{product.title}</h6>
           <p>
+            FOB Price:
             {product.price}
-            $
+            $/ Piece
           </p>
-          <button type="button">Contact</button>
+          <button type="button" className="productlist-btn">Contact Now</button>
         </div>
       </div>
     ))}
