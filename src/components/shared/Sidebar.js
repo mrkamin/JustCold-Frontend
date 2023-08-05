@@ -10,19 +10,19 @@ const Sidebar = () => {
       <nav className={styles.Sidebar}>
         <ul className={styles.Sidebar_cont_list}>
           <li className={styles.Sidebar_cont_link}>
-            <Link to="/" onClick={() => setActiveNav('/')} className={activeNav === '/' ? 'active' : ''}>Home</Link>
+            <Link to="/changeone" onClick={() => setActiveNav('changeone')} className={activeNav === 'changeone' ? 'active' : ''}>Changeable 1</Link>
           </li>
           <li className={styles.Sidebar_cont_link}>
-            <Link to="/products" onClick={() => setActiveNav('products')} className={activeNav === 'products' ? 'active' : ''}>Products</Link>
+            <Link to="/changetwo" onClick={() => setActiveNav('changetwo')} className={activeNav === 'changetwo' ? 'active' : ''}>Changeable 2</Link>
           </li>
           <li className={styles.Sidebar_cont_link}>
-            <Link to="/services" onClick={() => setActiveNav('services')} className={activeNav === 'services' ? 'active' : ''}>Services</Link>
+            <Link to="/changethree" onClick={() => setActiveNav('changethree')} className={activeNav === 'changethree' ? 'active' : ''}>Changeable 3</Link>
           </li>
           <li className={styles.Sidebar_cont_link}>
-            <Link to="/about" onClick={() => setActiveNav('about')} className={activeNav === 'about' ? 'active' : ''}>About Us</Link>
+            <Link to="/changefour" onClick={() => setActiveNav('changefoure')} className={activeNav === 'changefoure' ? 'active' : ''}>Changeable 4</Link>
           </li>
           <li className={styles.Sidebar_cont_link}>
-            <Link to="/contact" onClick={() => setActiveNav('contact')} className={activeNav === 'contact' ? 'active' : ''}>Contact Us</Link>
+            <Link to="/changefive" onClick={() => setActiveNav('changefive')} className={activeNav === 'changefive' ? 'active' : ''}>Changeable 5</Link>
           </li>
         </ul>
 

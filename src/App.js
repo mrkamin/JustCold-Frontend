@@ -10,6 +10,11 @@ import About from './components/About';
 import Services from './components/Services';
 import Contact from './components/Contact';
 import Products from './components/Products';
+import Changeone from './components/Changeone';
+import Changetwo from './components/Changetwo';
+import Changethree from './components/Changethree';
+import Changefour from './components/Changefour';
+import Changefive from './components/Changefive';
 
 function App() {
   return (
@@ -22,6 +27,11 @@ function App() {
           <Route path="about" element={<About />} />
           <Route path="services" element={<Services />} />
           <Route path="contact" element={<Contact />} />
+          <Route path="changeone" element={<Changeone />} />
+          <Route path="changetwo" element={<Changetwo />} />
+          <Route path="changethree" element={<Changethree />} />
+          <Route path="changefour" element={<Changefour />} />
+          <Route path="changefive" element={<Changefive />} />
         </Routes>
       </BrowserRouter>
     </div>
