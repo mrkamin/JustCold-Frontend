@@ -15,6 +15,7 @@ import Changetwo from './components/Changetwo';
 import Changethree from './components/Changethree';
 import Changefour from './components/Changefour';
 import Changefive from './components/Changefive';
+import ProductDetails from './components/Productdetails';
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
           <Route path="changethree" element={<Changethree />} />
           <Route path="changefour" element={<Changefour />} />
           <Route path="changefive" element={<Changefive />} />
+          <Route path="productdetails" element={<ProductDetails />} />
         </Routes>
       </BrowserRouter>
     </div>

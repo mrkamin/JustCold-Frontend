@@ -58,6 +58,7 @@
   background: #fff;
   margin: 10px;
   padding: 10px;
+  
 }
 
 .productslist-info {
@@ -67,12 +68,19 @@
   align-items: center;
   gap: 1rem;
 }
-
+.productslist-info a {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+  color: #000;
+}
 .productlist-title {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
+  
 }
 
 .productlist-btn {
