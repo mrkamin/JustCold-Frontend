@@ -4,7 +4,7 @@ import { Pagination, Navigation } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-import Products from '../../data';
+import { Sliderimages } from '../../data';
 import Sidebar from '../shared/Sidebar';
 import HomeProductList from './HomeProductList';
 import '../css/home.css';
@@ -19,9 +19,9 @@ const Home = () => (
       modules={[Pagination, Navigation]}
       className="mySwiper"
     >
-      {Products.map((product) => (
-        <SwiperSlide className="products-info" key={product.id}>
-          <img className="photo" src={product.photo} alt="productphoto" />
+      {Sliderimages.map((sliderimage) => (
+        <SwiperSlide className="products-info" key={sliderimage.id}>
+          <img className="photo" src={sliderimage.photo} alt="productphoto" />
         </SwiperSlide>
       ))}
     </Swiper>

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link, Outlet } from 'react-router-dom';
-import Products from '../../data';
+import Companyprofile from '../shared/Companyprofile';
+import { Products } from '../../data';
 import '../css/home.css';
 import Contactform from '../shared/Contactform';
 
@@ -35,7 +36,9 @@ const HomeProductList = () => {
         <Outlet />
 
       </div>
+      <Companyprofile />
       <Contactform />
+
     </div>
   );
 };

@@ -3,14 +3,14 @@
   flex-direction: column;
   height: 60vh;
   background-color: #fff;
-  margin: 10px;
-  padding: 10px;
+  margin: 15px;
+  padding: 15px;
+  gap: 1rem;
 }
 
 .contact__container {
   display: flex;
   flex-direction: column;
-  padding: 10px;
   align-items: center;
   gap: 1rem;
   width: 100%;
@@ -19,7 +19,6 @@
 .contact__container form {
   display: flex;
   flex-direction: column;
-  padding: 10px;
   gap: 1rem;
   width: 100%;
 }
