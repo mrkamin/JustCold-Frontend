@@ -10,7 +10,7 @@ import HomeProductList from './HomeProductList';
 import '../css/home.css';
 
 const Home = () => (
-  <>
+  <div className="home-container">
     <Swiper
       navigation
       pagination={{
@@ -29,7 +29,7 @@ const Home = () => (
       <Sidebar />
       <HomeProductList />
     </div>
-  </>
+  </div>
 );
 
 export default Home;
