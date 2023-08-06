@@ -16,6 +16,7 @@ import Changethree from './components/Changethree';
 import Changefour from './components/Changefour';
 import Changefive from './components/Changefive';
 import ProductDetails from './components/Productdetails';
+import Footer from './components/shared/Footer';
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
           <Route path="changefive" element={<Changefive />} />
           <Route path="productdetails" element={<ProductDetails />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );
