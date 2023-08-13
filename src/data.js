@@ -1,8 +1,6 @@
 export const Products = [
   {
     id: 1,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
     catgeory: 'featured',
     title:
       'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
@@ -15,7 +13,7 @@ export const Products = [
     Customization: 'Available',
     image: {
       img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
       img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
       img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
@@ -23,8 +21,6 @@ export const Products = [
   },
   {
     id: 2,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
     catgeory: 'featured',
     title: 'Dl Model Unit Cooler Evaporator for Cold Room Storage',
     price: 100,
@@ -36,7 +32,7 @@ export const Products = [
     Customization: 'Available',
     image: {
       img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
       img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
       img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
@@ -44,8 +40,6 @@ export const Products = [
   },
   {
     id: 3,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
     catgeory: 'featured',
     title: 'V Box Type Condenser Condensing Unit for Freezer Room',
     price: 200,
@@ -56,8 +50,8 @@ export const Products = [
     Condition: 'new',
     Customization: 'Available',
     image: {
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
       img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
       img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
@@ -65,8 +59,6 @@ export const Products = [
   },
   {
     id: 4,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
     catgeory: 'featured',
     title:
       'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
@@ -78,8 +70,8 @@ export const Products = [
     Condition: 'new',
     Customization: 'Available',
     image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/2_wnubhz.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
       img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
       img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
@@ -87,8 +79,6 @@ export const Products = [
   },
   {
     id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
     catgeory: 'featured',
     title:
       'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
@@ -101,7 +91,7 @@ export const Products = [
     Customization: 'Available',
     image: {
       img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
       img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
       img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
@@ -109,8 +99,6 @@ export const Products = [
   },
   {
     id: 6,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
     catgeory: 'featured',
     title: 'Dl Model Unit Cooler Evaporator for Cold Room Storage',
     price: 100,
@@ -122,7 +110,7 @@ export const Products = [
     Customization: 'Available',
     image: {
       img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
       img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
       img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
@@ -130,8 +118,6 @@ export const Products = [
   },
   {
     id: 7,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
     catgeory: 'featured',
     title: 'V Box Type Condenser Condensing Unit for Freezer Room',
     price: 200,
@@ -143,7 +129,7 @@ export const Products = [
     Customization: 'Available',
     image: {
       img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
       img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
       img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
       img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
@@ -151,8 +137,6 @@ export const Products = [
   },
   {
     id: 8,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
     catgeory: 'featured',
     title:
       'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
@@ -164,183 +148,11 @@ export const Products = [
     Condition: 'new',
     Customization: 'Available',
     image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 9,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    catgeory: 'featured',
-    title:
-      'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
-    price: 90,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 10,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
-    catgeory: 'featured',
-    title: 'Dl Model Unit Cooler Evaporator for Cold Room Storage',
-    price: 100,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 11,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
-    catgeory: 'featured',
-    title: 'V Box Type Condenser Condensing Unit for Freezer Room',
-    price: 200,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 12,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    catgeory: 'featured',
-    title:
-      'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
-    price: 90,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 13,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    catgeory: 'featured',
-    title:
-      'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
-    price: 90,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 14,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
-    catgeory: 'featured',
-    title: 'Dl Model Unit Cooler Evaporator for Cold Room Storage',
-    price: 100,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 15,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
-    catgeory: 'featured',
-    title: 'V Box Type Condenser Condensing Unit for Freezer Room',
-    price: 200,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    },
-  },
-  {
-    id: 16,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    catgeory: 'featured',
-    title:
-      'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
-    price: 90,
-    type: 'Air-Cooled',
-    Certification: 'RoHS, ISO, CE',
-    FansSpecies: 'Axial Fan',
-    ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
-    Condition: 'new',
-    Customization: 'Available',
-    image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
     },
   },
 ];

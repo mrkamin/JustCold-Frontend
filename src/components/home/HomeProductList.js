@@ -14,7 +14,7 @@ const HomeProductList = () => (
           <Link to={`/product/${product.id}`}>
             <img
               className="productlist-photo"
-              src={product.photo}
+              src={product.image.img1}
               alt="productphoto"
             />
             <div className="productlist-title">
