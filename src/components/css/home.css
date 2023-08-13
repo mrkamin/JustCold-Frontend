@@ -127,3 +127,21 @@
   height: 100%;
   cursor: pointer;
 }
+
+.product-details-details {
+ flex-direction: column;
+  gap: 1rem;
+}
+
+.space {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  gap: 1rem;
+ }
+
+ .child-one {
+  font-weight:500;
+  color: #000000a2;
+  
+ }
+ 

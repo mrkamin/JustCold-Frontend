@@ -51,36 +51,40 @@ const ProductDetail = () => {
             />
           </div>
         </div>
-        <div className="product-details-details">
+        <div className="product-details-details flex">
           <h2>{product.title}</h2>
-          <p>
-            Price: $
-            {product.price.toFixed(2)}
-          </p>
-          <p>
-            Type:
-            {product.type}
-          </p>
-          <p>
-            Certification:
-            {product.Certification}
-          </p>
-          <p>
-            Fans Species:
-            {product.FansSpecies}
-          </p>
-          <p>
-            Application Fields:
-            {product.ApplicationFields}
-          </p>
-          <p>
-            Condition:
-            {product.Condition}
-          </p>
-          <p>
-            Customization:
-            {product.Customization}
-          </p>
+          <div className="space">
+            <p className="child-one">Price:</p>
+            <p>
+              {' '}
+              $
+              {product.price.toFixed(2)}
+            </p>
+          </div>
+          <div className="space">
+            <p className="child-one">Type:</p>
+            <p>{product.type}</p>
+          </div>
+          <div className="space">
+            <p className="child-one">Certification:</p>
+            <p>{product.Certification}</p>
+          </div>
+          <div className="space">
+            <p className="child-one">Fans Species:</p>
+            <p>{product.FansSpecies}</p>
+          </div>
+          <div className="space">
+            <p className="child-one">Application Fields:</p>
+            <p>{product.ApplicationFields}</p>
+          </div>
+          <div className="space">
+            <p className="child-one">Condition:</p>
+            <p>{product.Condition}</p>
+          </div>
+          <div className="space">
+            <p className="child-one">Customization:</p>
+            <p>{product.Customization}</p>
+          </div>
         </div>
         <div className="product-details-chat">
           <h6>chat with</h6>
