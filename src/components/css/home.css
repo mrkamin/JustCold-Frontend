@@ -107,26 +107,23 @@
 
 .product-details-img {
   display: grid;
-  grid-template-columns: 1fr; /* Single column for top image */
-  gap: 10px; /* Adjust spacing between images */
+  grid-template-columns: 1fr; 
+  gap: 10px; 
 
 
 }
 
 .grid-images {
   display: grid;
-  grid-template-columns: repeat(5, 1fr); /* 5 columns for grid images */
-  gap: 10px; /* Adjust spacing between images */
-
-  /* Adjust styling for the grid images container as needed */
+  grid-template-columns: repeat(5, 1fr); 
+  gap: 10px; 
 }
 .details-main-img {
-  max-width: 100%; /* Ensure images don't exceed their container */
-  height: 17rem; /* Maintain aspect ratio */
+  max-width: 100%; 
+  height: 17rem; 
 }
-/* Styles for individual images */
+
 .product-details-img img {
-  max-width: 100%; /* Ensure images don't exceed their container */ /* Maintain aspect ratio */
+  max-width: 100%; 
   height: 100%;
-  object-fit: cover;
 }
