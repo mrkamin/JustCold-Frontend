@@ -13,6 +13,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    },
   },
   {
     id: 2,
@@ -27,6 +34,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    },
   },
   {
     id: 3,
@@ -41,6 +55,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    },
   },
   {
     id: 4,
@@ -56,6 +77,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    },
   },
   {
     id: 5,
@@ -71,6 +99,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 6,
@@ -85,6 +120,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 7,
@@ -99,6 +141,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 8,
@@ -114,6 +163,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 9,
@@ -143,6 +199,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 11,
@@ -157,6 +220,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 12,
@@ -172,6 +242,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 13,
@@ -187,6 +264,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 14,
@@ -201,6 +285,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 15,
@@ -215,6 +306,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 16,
@@ -230,6 +328,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
 ];
 export const Sliderimages = [

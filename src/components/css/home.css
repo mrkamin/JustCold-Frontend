@@ -95,3 +95,34 @@
   height: 35px;
   border: 1px solid #d6d8db;
 }
+
+/* Product Details */
+
+.product-details-container {
+  display: grid;
+  grid-template-columns: 30% 50% 18%;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.product-details-img {
+  display: grid;
+  grid-template-columns: 1fr; /* Single column for top image */
+  gap: 10px; /* Adjust spacing between images */
+
+  /* Adjust styling for the container as needed */
+}
+
+.grid-images {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 columns for grid images */
+  gap: 10px; /* Adjust spacing between images */
+
+  /* Adjust styling for the grid images container as needed */
+}
+
+/* Styles for individual images */
+.product-details-img img {
+  max-width: 100%; /* Ensure images don't exceed their container */
+  height: auto; /* Maintain aspect ratio */
+}
