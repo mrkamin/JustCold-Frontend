@@ -20,7 +20,9 @@ const ProductDetail = () => {
     <div className="product-details">
       <div className="product-details-container">
         <div className="product-details-img">
-          <img src={hoveredImage} alt={product.title} />
+          <div className="details-main-img">
+            <img src={hoveredImage} alt={product.title} />
+          </div>
           <div className="grid-images">
             <img
               src={product.image.img1}

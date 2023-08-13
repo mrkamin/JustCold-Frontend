@@ -110,7 +110,7 @@
   grid-template-columns: 1fr; /* Single column for top image */
   gap: 10px; /* Adjust spacing between images */
 
-  /* Adjust styling for the container as needed */
+
 }
 
 .grid-images {
@@ -120,9 +120,13 @@
 
   /* Adjust styling for the grid images container as needed */
 }
-
+.details-main-img {
+  max-width: 100%; /* Ensure images don't exceed their container */
+  height: 17rem; /* Maintain aspect ratio */
+}
 /* Styles for individual images */
 .product-details-img img {
-  max-width: 100%; /* Ensure images don't exceed their container */
-  height: auto; /* Maintain aspect ratio */
+  max-width: 100%; /* Ensure images don't exceed their container */ /* Maintain aspect ratio */
+  height: 100%;
+  object-fit: cover;
 }
