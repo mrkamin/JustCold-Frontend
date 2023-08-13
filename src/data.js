@@ -88,7 +88,7 @@ export const Products = [
   {
     id: 5,
     photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
     catgeory: 'featured',
     title:
       'Box Type Compressor Condensing Unit, 2HP-15HP for Refrigeration Cold Room',
@@ -100,17 +100,17 @@ export const Products = [
     Condition: 'new',
     Customization: 'Available',
     image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
     },
   },
   {
     id: 6,
     photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
     catgeory: 'featured',
     title: 'Dl Model Unit Cooler Evaporator for Cold Room Storage',
     price: 100,
@@ -121,17 +121,17 @@ export const Products = [
     Condition: 'new',
     Customization: 'Available',
     image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
     },
   },
   {
     id: 7,
     photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
     catgeory: 'featured',
     title: 'V Box Type Condenser Condensing Unit for Freezer Room',
     price: 200,
@@ -142,11 +142,11 @@ export const Products = [
     Condition: 'new',
     Customization: 'Available',
     image: {
-      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_one_cffqgm.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948966/4_l4zxys.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/5_dt0d1s.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
     },
   },
   {
@@ -185,6 +185,13 @@ export const Products = [
     ApplicationFields: 'Cold Room, Cold Storage, Freezer Room',
     Condition: 'new',
     Customization: 'Available',
+    image: {
+      img1: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img2: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img3: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img4: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+      img5: 'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    },
   },
   {
     id: 10,
