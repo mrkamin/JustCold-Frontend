@@ -8,7 +8,17 @@
 }
 
 .active {
-  background-color: rgb(23, 123, 253);
-  height: 38px;
-  width: 100px;
+  background-color: rgba(0, 0, 255, 0.356);
+}
+
+.header_uperhead {
+  align-items: center;
+}
+
+.justcold_name {
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  padding: 0 0.5rem;
+  gap: 0.2rem;
 }

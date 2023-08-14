@@ -11,9 +11,12 @@ body {
     'Fira Sans',
     'Droid Sans',
     'Helvetica Neue',
+    Arial,
+    "Microsoft YaHei",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #e9eef4;
 }
 
 code {

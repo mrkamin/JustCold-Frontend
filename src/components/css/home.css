@@ -1,0 +1,145 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* .home-container {
+  position: relative;
+} */
+
+.swiper {
+  width: 100%;
+  height: 35vh;
+}
+
+.photo {
+  width: 100%;
+  height: 35vh;
+  padding: 10px;
+  border: none;
+  object-fit: cover;
+}
+
+.productlist-photo {
+  width: 100%;
+  height: 30vh;
+  border: none;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  background-color: #00000085;
+  padding: 16px 10px;
+  border: none;
+  border-radius: 0.2rem;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: #000;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 20px !important;
+  color: #fff;
+}
+
+.swiper-pagination-bullet {
+  --swiper-theme-color: red !important;
+}
+
+.product-container {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
+
+.productslist-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background: #fff;
+  margin: 10px;
+  padding: 15px;
+  gap: 1rem;
+}
+
+.productslist-info {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  width: 100%;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.productslist-info a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #000;
+  padding: 10px;
+  margin: 0;
+  gap: 0.5rem;
+}
+
+.productlist-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.productlist-btn {
+  width: 100%;
+  height: 35px;
+  border: 1px solid #d6d8db;
+}
+
+/* Product Details */
+
+.product-details-container {
+  display: grid;
+  grid-template-columns: 30% 50% 18%;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.product-details-img {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.grid-images {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+}
+
+.details-main-img {
+  max-width: 100%;
+  height: 17rem;
+}
+
+.product-details-img img {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.product-details-details {
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.space {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  gap: 1rem;
+}
+
+.child-one {
+  font-weight: 500;
+  color: #000000a2;
+}

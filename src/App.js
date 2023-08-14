@@ -4,12 +4,19 @@ import {
   Routes,
   Route,
 } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Home from './components/Home';
+import Navbar from './components/shared/Navbar';
+import Home from './components/home/Home';
 import About from './components/About';
 import Services from './components/Services';
 import Contact from './components/Contact';
 import Products from './components/Products';
+import Changeone from './components/Changeone';
+import Changetwo from './components/Changetwo';
+import Changethree from './components/Changethree';
+import Changefour from './components/Changefour';
+import Changefive from './components/Changefive';
+import ProductDetails from './components/home/Productdetails';
+import Footer from './components/shared/Footer';
 
 function App() {
   return (
@@ -22,7 +29,14 @@ function App() {
           <Route path="about" element={<About />} />
           <Route path="services" element={<Services />} />
           <Route path="contact" element={<Contact />} />
+          <Route path="changeone" element={<Changeone />} />
+          <Route path="changetwo" element={<Changetwo />} />
+          <Route path="changethree" element={<Changethree />} />
+          <Route path="changefour" element={<Changefour />} />
+          <Route path="changefive" element={<Changefive />} />
+          <Route path="/product/:productId" element={<ProductDetails />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );
