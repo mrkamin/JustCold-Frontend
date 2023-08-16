@@ -1,8 +1,12 @@
 import React from 'react';
+import Companyprofile from './shared/Companyprofile';
+import Contactform from './shared/Contactform';
 
 const Contact = () => (
   <div>
-    <h1>Contact Page Under Construction</h1>
+    <Contactform />
+    <Companyprofile />
+
   </div>
 );
 
