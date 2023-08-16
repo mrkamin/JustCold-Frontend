@@ -183,3 +183,113 @@ export const Sliderimages = [
       'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
   },
 ];
+export const Services = [
+  {
+    id: 1,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 2,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 3,
+    photo:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
+    title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 4,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+  {
+    id: 5,
+    photo:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+      title: 'System Design and Installation',
+      serviceone: 'Assessing the cooling requirements of a space or facility.',
+      servicetwo: 'Designing customized refrigeration systems based on client needs.',
+      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+  },
+];
