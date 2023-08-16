@@ -1,0 +1,30 @@
+.serviceslist-container {
+    flex-direction: column;
+    gap: 1rem;
+
+  }
+  /* .serviceslist-info {
+    display: grid;
+  } */
+
+  .services-items {
+    display: grid;
+    grid-template-columns: 30% 60%;
+    margin: 1rem;
+    padding: 1rem;
+    background: #fff;
+  }
+
+  .services-img {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .services-img img {
+    width: 100%;
+  }
+  .services-grid-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  /* {} */

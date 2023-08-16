@@ -183,113 +183,134 @@ export const Sliderimages = [
       'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
   },
 ];
-export const Services = [
+export const ServicesData = [
   {
     id: 1,
-    photo:
+    img1:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
       'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+    title: 'System Design and Installation',
+    serviceone: 'Assessing the cooling requirements of a space or facility.',
+    servicetwo: 'Designing customized refrigeration systems based on client needs.',
+    servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
   },
   {
     id: 2,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/Amchiller-800x450_ypzq0z.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Commercial Refrigeration',
+    serviceone: 'Providing refrigeration solutions for supermarkets, restaurants, cold storage facilities, and convenience stores.',
+    servicetwo: 'Installing and servicing commercial refrigerators, walk-in freezers, display cases, and ice machines.',
   },
   {
     id: 3,
-    photo:
-    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691177742/JustCold/slider_image_four_t7xd2w.jpg',
-    title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Industrial Refrigeration',
+    serviceone: 'Designing and installing large-scale refrigeration systems for food processing plants, pharmaceutical companies, chemical industries, and more.',
+    servicetwo: 'Managing specialized cooling needs, such as cryogenic systems for freezing or preserving products.',
   },
   {
     id: 4,
-    photo:
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'HVAC Systems',
+    serviceone: 'Offering heating, ventilation, and air conditioning solutions for maintaining comfortable indoor temperatures and air quality.',
+    servicetwo: 'Installing HVAC units, air handlers, ductwork, and ventilation systems in various settings.',
+  },
+  {
+    id: 5,
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Refrigeration System Maintenance',
+    serviceone: 'Providing regular maintenance services to ensure optimal performance and energy efficiency.',
+    servicetwo: 'Conducting routine inspections, cleaning, and parts replacement to prevent breakdowns.',
+  },
+  {
+    id: 6,
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Emergency Repairs',
+    serviceone: 'Offering 24/7 emergency repair services to address sudden breakdowns or malfunctions in refrigeration systems.',
+    servicetwo: 'Troubleshooting issues and conducting on-site repairs to minimize downtime.',
+  },
+  {
+    id: 7,
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Energy Efficiency Upgrades',
+    serviceone: 'Recommending and implementing energy-efficient upgrades to existing refrigeration systems, such as installing variable speed drives, LED lighting, and smart controls.',
+  },
+  {
+    id: 8,
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Cooling System Retrofitting',
+    serviceone: 'Upgrading outdated refrigeration systems with modern components and technologies to improve efficiency and comply with environmental regulations.',
+  },
+  {
+    id: 9,
+    img1:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
       'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+    img3:
+      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Refrigerant Management',
+    serviceone: 'Handling refrigerant leaks, recharging systems, and ensuring compliance with regulations related to refrigerant use and disposal.',
   },
   {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+    id: 10,
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Consultation and Expert Advice',
+    serviceone: 'Providing expert advice on selecting the appropriate refrigeration solutions based on the specific requirements of clients.',
+    servicetwo: 'Offering consultations for system optimization, expansion, or renovation projects.',
   },
   {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
-  },
-  {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
-  },
-  {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
-  },
-  {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
-  },
-  {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
-  },
-  {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
-  },
-  {
-    id: 5,
-    photo:
-      'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
-      title: 'System Design and Installation',
-      serviceone: 'Assessing the cooling requirements of a space or facility.',
-      servicetwo: 'Designing customized refrigeration systems based on client needs.',
-      servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+    id: 11,
+    img1:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691948967/1_g26baq.jpg',
+    img2:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691965226/11_rfukgb.jpg',
+    img3:
+    'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
+    title: 'Preventive Maintenance Contracts',
+    serviceone: 'Offering long-term maintenance contracts to provide regular check-ups and maintenance for clients refrigeration systems, reducing the risk of breakdowns and extending equipment lifespan.',
   },
 ];
