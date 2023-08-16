@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Products } from '../../data'; // Make sure to import your data source
+import { Products } from '../../data';
+import Companyprofile from '../shared/Companyprofile';
+import Contactform from '../shared/Contactform';
 
 const ProductDetail = () => {
-  const { productId } = useParams(); // Get the productId from URL parameter
+  const { productId } = useParams();
 
-  // Find the product with the matching ID from your data source
   const product = Products.find((product) => product.id === Number(productId));
   const [hoveredImage, setHoveredImage] = useState(product.image.img1);
 
@@ -86,10 +87,9 @@ const ProductDetail = () => {
             <p>{product.Customization}</p>
           </div>
         </div>
-        <div className="product-details-chat">
-          <h6>chat with</h6>
-        </div>
       </div>
+      <Companyprofile />
+      <Contactform />
     </div>
   );
 };
