@@ -193,9 +193,9 @@ export const ServicesData = [
     img3:
       'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'System Design and Installation',
-    serviceone: 'Assessing the cooling requirements of a space or facility.',
-    servicetwo: 'Designing customized refrigeration systems based on client needs.',
-    servicethree: 'Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
+    serviceone: '1. Assessing the cooling requirements of a space or facility.',
+    servicetwo: '2. Designing customized refrigeration systems based on client needs.',
+    servicethree: '3. Installing refrigeration equipment such as chillers, condensers, evaporators, and cooling towers.',
   },
   {
     id: 2,
@@ -206,8 +206,8 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Commercial Refrigeration',
-    serviceone: 'Providing refrigeration solutions for supermarkets, restaurants, cold storage facilities, and convenience stores.',
-    servicetwo: 'Installing and servicing commercial refrigerators, walk-in freezers, display cases, and ice machines.',
+    serviceone: '1. Providing refrigeration solutions for supermarkets, restaurants, cold storage facilities, and convenience stores.',
+    servicetwo: '2. Installing and servicing commercial refrigerators, walk-in freezers, display cases, and ice machines.',
   },
   {
     id: 3,
@@ -218,8 +218,8 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Industrial Refrigeration',
-    serviceone: 'Designing and installing large-scale refrigeration systems for food processing plants, pharmaceutical companies, chemical industries, and more.',
-    servicetwo: 'Managing specialized cooling needs, such as cryogenic systems for freezing or preserving products.',
+    serviceone: '1. Designing and installing large-scale refrigeration systems for food processing plants, pharmaceutical companies, chemical industries, and more.',
+    servicetwo: '2. Managing specialized cooling needs, such as cryogenic systems for freezing or preserving products.',
   },
   {
     id: 4,
@@ -230,8 +230,8 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'HVAC Systems',
-    serviceone: 'Offering heating, ventilation, and air conditioning solutions for maintaining comfortable indoor temperatures and air quality.',
-    servicetwo: 'Installing HVAC units, air handlers, ductwork, and ventilation systems in various settings.',
+    serviceone: '1. Offering heating, ventilation, and air conditioning solutions for maintaining comfortable indoor temperatures and air quality.',
+    servicetwo: '2. Installing HVAC units, air handlers, ductwork, and ventilation systems in various settings.',
   },
   {
     id: 5,
@@ -242,8 +242,8 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Refrigeration System Maintenance',
-    serviceone: 'Providing regular maintenance services to ensure optimal performance and energy efficiency.',
-    servicetwo: 'Conducting routine inspections, cleaning, and parts replacement to prevent breakdowns.',
+    serviceone: '1. Providing regular maintenance services to ensure optimal performance and energy efficiency.',
+    servicetwo: '2. Conducting routine inspections, cleaning, and parts replacement to prevent breakdowns.',
   },
   {
     id: 6,
@@ -254,8 +254,8 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Emergency Repairs',
-    serviceone: 'Offering 24/7 emergency repair services to address sudden breakdowns or malfunctions in refrigeration systems.',
-    servicetwo: 'Troubleshooting issues and conducting on-site repairs to minimize downtime.',
+    serviceone: '1. Offering 24/7 emergency repair services to address sudden breakdowns or malfunctions in refrigeration systems.',
+    servicetwo: '2. Troubleshooting issues and conducting on-site repairs to minimize downtime.',
   },
   {
     id: 7,
@@ -266,7 +266,7 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Energy Efficiency Upgrades',
-    serviceone: 'Recommending and implementing energy-efficient upgrades to existing refrigeration systems, such as installing variable speed drives, LED lighting, and smart controls.',
+    serviceone: '1. Recommending and implementing energy-efficient upgrades to existing refrigeration systems, such as installing variable speed drives, LED lighting, and smart controls.',
   },
   {
     id: 8,
@@ -277,7 +277,7 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Cooling System Retrofitting',
-    serviceone: 'Upgrading outdated refrigeration systems with modern components and technologies to improve efficiency and comply with environmental regulations.',
+    serviceone: '1. Upgrading outdated refrigeration systems with modern components and technologies to improve efficiency and comply with environmental regulations.',
   },
   {
     id: 9,
@@ -288,7 +288,7 @@ export const ServicesData = [
     img3:
       'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Refrigerant Management',
-    serviceone: 'Handling refrigerant leaks, recharging systems, and ensuring compliance with regulations related to refrigerant use and disposal.',
+    serviceone: '1. Handling refrigerant leaks, recharging systems, and ensuring compliance with regulations related to refrigerant use and disposal.',
   },
   {
     id: 10,
@@ -299,8 +299,8 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Consultation and Expert Advice',
-    serviceone: 'Providing expert advice on selecting the appropriate refrigeration solutions based on the specific requirements of clients.',
-    servicetwo: 'Offering consultations for system optimization, expansion, or renovation projects.',
+    serviceone: '1. Providing expert advice on selecting the appropriate refrigeration solutions based on the specific requirements of clients.',
+    servicetwo: '2. Offering consultations for system optimization, expansion, or renovation projects.',
   },
   {
     id: 11,
@@ -311,6 +311,6 @@ export const ServicesData = [
     img3:
     'https://res.cloudinary.com/dagjuuf4v/image/upload/v1691962292/9_ki8way.jpg',
     title: 'Preventive Maintenance Contracts',
-    serviceone: 'Offering long-term maintenance contracts to provide regular check-ups and maintenance for clients refrigeration systems, reducing the risk of breakdowns and extending equipment lifespan.',
+    serviceone: '1. Offering long-term maintenance contracts to provide regular check-ups and maintenance for clients refrigeration systems, reducing the risk of breakdowns and extending equipment lifespan.',
   },
 ];
