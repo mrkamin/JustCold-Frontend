@@ -102,7 +102,9 @@
   display: grid;
   grid-template-columns: 38% 60%;
   gap: 1rem;
-  margin: 1rem;
+  margin: 0.7rem;
+  padding: 1rem;
+  background: #fff;
 }
 
 .product-details-img {
